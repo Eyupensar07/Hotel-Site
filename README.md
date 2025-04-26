@@ -1,5 +1,3 @@
-Tabii ki! İşte yeni projeniz için bir README dosyası taslağı:
-
 ```markdown
 # 🏨 Hotel Website Template
 
